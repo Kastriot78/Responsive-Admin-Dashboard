@@ -67,6 +67,11 @@ a {
     justify-content: center;
 }
 
+.sidebar-logo h4.logo {
+    color: var(--main-color);
+    font-size: 32px;
+}
+
 .sidebar-logo img {
     height: var(--sidebar-logo-img-size);
     max-width: 100%;
